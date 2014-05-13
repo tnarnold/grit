@@ -5,7 +5,9 @@ require 'ruby-prof'
 require 'memcache'
 require 'pp'
 
-
+#colocar outro comentario aqui
+# mais um comentário
+# Outro comentario que vai ricar fora do staged
 #require 'grit'
 require 'lib/grit'
 
